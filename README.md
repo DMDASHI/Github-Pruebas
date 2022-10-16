@@ -23,6 +23,3 @@ Check this repository pull request for review, instructions
 
 <<<<<<< HEAD
 Created By Miguel Angel
-=======
-Created By Miguel Giraldo
->>>>>>> add-copyright
