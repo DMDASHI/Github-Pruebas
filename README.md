@@ -2,6 +2,6 @@
 
 ## Introduction
 
-## Programs
+## Purpose
 
 ## How to contribute
