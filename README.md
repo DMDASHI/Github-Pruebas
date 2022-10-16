@@ -1,1 +1,7 @@
-This is my first README.md xdxdxd
+# README UwU
+
+## Introduction
+
+## Programs
+
+## How to contribute
