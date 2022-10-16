@@ -16,3 +16,7 @@ This is a simple web project deployment can be on any web server or even local f
 
 ## How to contribute
 
+Contribute please.
+I need hel with that
+
+Add a comment xdxd
