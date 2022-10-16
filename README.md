@@ -19,7 +19,7 @@ This is a simple web project deployment can be on any web server or even local f
 Contribute please.
 I need hel with that
 
-Check this repository pull request for review
+Check this repository pull request for review, instructions
 
 <<<<<<< HEAD
 Created By Miguel Angel
